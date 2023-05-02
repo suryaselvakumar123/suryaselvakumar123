@@ -28,9 +28,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-<h2> <b>My GitHub Status 👨‍💻 </b> </h2>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumaar2000&show_icons=true&theme=radical" alt="arunkumaar2000" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumaar2000&show_icons=true&theme=radical&layout=compact" alt="arunkumaar2000" /></p>
 
 
 <h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
