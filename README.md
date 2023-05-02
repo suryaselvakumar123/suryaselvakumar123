@@ -1,10 +1,10 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
-<h1 align="center">Hi 👋, I'm Arun</h1>
+<h1 align="center">Hi 👋, I'm Surya </h1>
 <h3 align="center">A passionate FrontEnd Developer from India</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arunkumaar2000](https://github.com/arunkumaar2000)
+- 👨‍💻 All of my projects are available at [https://github.com/suryaselvakumar123](https://github.com/suryaselvakumar123)
 
 - 💬 Ask me about **Frontend Technology**
 
