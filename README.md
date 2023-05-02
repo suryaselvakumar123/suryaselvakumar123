@@ -1,16 +1,36 @@
-### Hi there 👋
+![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
+<h1 align="center">Hi 👋, I'm Arun</h1>
+<h3 align="center">A passionate FrontEnd Developer from India</h3>
 
-<!--
-**suryaselvakumar123/suryaselvakumar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **MERN stack**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/arunkumaar2000](https://github.com/arunkumaar2000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Frontend Technology**
+
+- 📫 How to reach me **suryaselvakumar1007@gmail.com**
+
+- ⚡ Fun fact **My first "Bug" is my Life**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+
+<h2><b>My Technical & All Over Skills⚡</b> </h2>
+
+
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+<h2> <b>My GitHub Status 👨‍💻 </b> </h2>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumaar2000&show_icons=true&theme=radical" alt="arunkumaar2000" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumaar2000&show_icons=true&theme=radical&layout=compact" alt="arunkumaar2000" /></p>
+
+
+<h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
